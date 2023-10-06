@@ -104,8 +104,8 @@ assignments = {
       "title": "Lab 5",
       "course": "CS 61C",
       "dueDate": "2023-10-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/579646",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/579646/assignments/3228477/submissions/200035798",
+      "submitted": true
     },
     {
       "title": "Project 2A",
@@ -155,6 +155,13 @@ assignments = {
       "title": "HW 5",
       "course": "MATH 104-LEC-003",
       "dueDate": "2023-10-06T23:00:00",
+      "link": "https://www.gradescope.com/courses/587508",
+      "submitted": false
+    },
+    {
+      "title": "HW 6",
+      "course": "MATH 104-LEC-003",
+      "dueDate": "2023-10-13T23:00:00",
       "link": "https://www.gradescope.com/courses/587508",
       "submitted": false
     }
