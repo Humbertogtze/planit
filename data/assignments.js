@@ -120,6 +120,20 @@ assignments = {
       "dueDate": "2023-10-03T23:59:00",
       "link": "https://www.gradescope.com/courses/579646",
       "submitted": false
+    },
+    {
+      "title": "Project 3A",
+      "course": "CS 61C",
+      "dueDate": "2023-10-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/579646",
+      "submitted": false
+    },
+    {
+      "title": "Project 3B",
+      "course": "CS 61C",
+      "dueDate": "2023-11-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/579646",
+      "submitted": false
     }
   ],
   "MATH 104-LEC-003": [
