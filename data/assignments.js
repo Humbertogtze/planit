@@ -176,8 +176,8 @@ assignments = {
       "title": "HW 5",
       "course": "MATH 104-LEC-003",
       "dueDate": "2023-10-06T23:00:00",
-      "link": "https://www.gradescope.com/courses/587508",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/587508/assignments/3400742/submissions/200357250",
+      "submitted": true
     },
     {
       "title": "HW 6",
