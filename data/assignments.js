@@ -62,6 +62,13 @@ assignments = {
       "dueDate": "2023-10-11T22:00:00",
       "link": "https://www.gradescope.com/courses/580340",
       "submitted": false
+    },
+    {
+      "title": "Homework 7 Coding Portion",
+      "course": "CS 170",
+      "dueDate": "2023-10-17T22:00:00",
+      "link": "https://www.gradescope.com/courses/580340",
+      "submitted": false
     }
   ],
   "CS 61C": [
