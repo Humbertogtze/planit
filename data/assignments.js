@@ -67,15 +67,15 @@ assignments = {
       "title": "Homework 7 Coding Portion",
       "course": "CS 170",
       "dueDate": "2023-10-17T22:00:00",
-      "link": "https://www.gradescope.com/courses/580340",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580340/assignments/3511091/submissions/203657690",
+      "submitted": true
     },
     {
       "title": "Homework 7 Written Portion",
       "course": "CS 170",
       "dueDate": "2023-10-17T22:00:00",
-      "link": "https://www.gradescope.com/courses/580340",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580340/assignments/3513450/submissions/203658304",
+      "submitted": true
     }
   ],
   "CS 61C": [
