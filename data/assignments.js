@@ -88,8 +88,8 @@ assignments = {
       "title": "Homework 8 Written Portion",
       "course": "CS 170",
       "dueDate": "2023-10-25T22:00:00",
-      "link": "https://www.gradescope.com/courses/580340",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/580340/assignments/3563812/submissions/206388182",
+      "submitted": true
     },
     {
       "title": "Mid Semester Feedback",
