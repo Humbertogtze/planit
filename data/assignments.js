@@ -57,7 +57,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Homework 6",
+      "title": "Homework 6 Written Portion",
       "course": "CS 170",
       "dueDate": "2023-10-11T22:00:00",
       "link": "https://www.gradescope.com/courses/580340/assignments/3486390/submissions/201808964",
@@ -85,7 +85,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Homework 8",
+      "title": "Homework 8 Written Portion",
       "course": "CS 170",
       "dueDate": "2023-10-25T22:00:00",
       "link": "https://www.gradescope.com/courses/580340",
