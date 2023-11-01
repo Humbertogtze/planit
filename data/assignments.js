@@ -262,6 +262,13 @@ assignments = {
       "dueDate": "2023-10-27T23:00:00",
       "link": "https://www.gradescope.com/courses/587508/assignments/3549392/submissions/207180387",
       "submitted": true
+    },
+    {
+      "title": "HW 9",
+      "course": "MATH 104-LEC-003",
+      "dueDate": "2023-11-10T23:00:00",
+      "link": "https://www.gradescope.com/courses/587508",
+      "submitted": false
     }
   ]
 };
