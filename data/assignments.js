@@ -132,6 +132,13 @@ assignments = {
       "dueDate": "2023-11-20T22:00:00",
       "link": "https://www.gradescope.com/courses/580340",
       "submitted": false
+    },
+    {
+      "title": "Homework 13 Written Portion",
+      "course": "CS 170",
+      "dueDate": "2023-12-01T22:00:00",
+      "link": "https://www.gradescope.com/courses/580340",
+      "submitted": false
     }
   ],
   "CS 61C": [
