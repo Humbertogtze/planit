@@ -202,8 +202,8 @@ assignments = {
       "title": "Lab 7",
       "course": "CS 61C",
       "dueDate": "2023-11-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/579646",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/579646/assignments/3228479/submissions/215089688",
+      "submitted": true
     },
     {
       "title": "Lab 8",
