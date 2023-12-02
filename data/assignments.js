@@ -251,8 +251,8 @@ assignments = {
       "title": "Project 4",
       "course": "CS 61C",
       "dueDate": "2023-11-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/579646",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/579646/assignments/3662054/submissions/217081907",
+      "submitted": true
     }
   ],
   "MATH 104-LEC-003": [
