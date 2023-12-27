@@ -257,7 +257,7 @@ assignments = {
     {
       "title": "Grade Report",
       "course": "CS 61C",
-      "dueDate": "2023-12-26T00:00:00",
+      "dueDate": "2023-12-25T00:05:00",
       "link": "https://www.gradescope.com/courses/579646/assignments/3835778/submissions/221372883",
       "submitted": true
     }
