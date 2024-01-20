@@ -1,4 +1,5 @@
 assignments = {
+  "CS171": [],
   "EECS 126-LEC-001": [
     {
       "title": "Homework 1",
