@@ -26,5 +26,5 @@ assignments = {
       "submitted": false
     }
   ],
-  "Math 110.114 Quizzes": []
+  "MATH-110-DIS-114 (Spring 2024) Quizzes": []
 };
