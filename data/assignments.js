@@ -13,7 +13,14 @@ assignments = {
       "title": "Homework 1",
       "course": "EECS 126-LEC-001",
       "dueDate": "2024-01-23T23:00:00",
-      "link": "https://www.gradescope.com/courses/696086",
+      "link": "https://www.gradescope.com/courses/696086/assignments/3957773/submissions/224250723",
+      "submitted": true
+    },
+    {
+      "title": "Homework 1 Self-grade",
+      "course": "EECS 126-LEC-001",
+      "dueDate": "2024-01-30T23:00:00",
+      "link": "https://www.gradescope.com/courses/696086/assignments/3991749/submissions/new",
       "submitted": false
     }
   ],
