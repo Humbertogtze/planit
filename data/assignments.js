@@ -26,7 +26,14 @@ assignments = {
     {
       "title": "Homework 2",
       "course": "EECS 126-LEC-001",
-      "dueDate": "2024-01-30T23:00:00",
+      "dueDate": "2024-02-02T23:00:00",
+      "link": "https://www.gradescope.com/courses/696086",
+      "submitted": false
+    },
+    {
+      "title": "Lab 0",
+      "course": "EECS 126-LEC-001",
+      "dueDate": "2024-02-02T23:00:00",
       "link": "https://www.gradescope.com/courses/696086",
       "submitted": false
     }
