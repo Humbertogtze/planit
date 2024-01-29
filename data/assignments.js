@@ -43,8 +43,8 @@ assignments = {
       "title": "HW 1",
       "course": "MATH 113",
       "dueDate": "2024-01-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/717116",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/717116/assignments/3972912/submissions/225447432",
+      "submitted": true
     }
   ],
   "MATH-110-DIS-114 (Spring 2024) Quizzes": []
