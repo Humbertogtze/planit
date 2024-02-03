@@ -41,8 +41,8 @@ assignments = {
       "title": "Homework 2",
       "course": "EECS 126-LEC-001",
       "dueDate": "2024-02-02T23:00:00",
-      "link": "https://www.gradescope.com/courses/696086",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/696086/assignments/3995328/submissions/227242107",
+      "submitted": true
     },
     {
       "title": "Homework 2 Self-grade",
@@ -75,5 +75,5 @@ assignments = {
       "submitted": true
     }
   ],
-  "MATH-110-DIS-114 (Spring 2024) Quizzes": []
+  "Math 110 DIS 114 (Spring 2024)": []
 };
