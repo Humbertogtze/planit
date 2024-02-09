@@ -18,8 +18,8 @@ assignments = {
       "title": "Homework 2",
       "course": "CS171",
       "dueDate": "2024-02-08T20:59:00",
-      "link": "https://www.gradescope.com/courses/689970",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/689970/assignments/4025587/submissions/229059989",
+      "submitted": true
     }
   ],
   "EECS 126-LEC-001": [
