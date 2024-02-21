@@ -124,7 +124,7 @@ assignments = {
     {
       "title": "Homework 5",
       "course": "EECS 126-LEC-001",
-      "dueDate": "2024-02-20T23:00:00",
+      "dueDate": "2024-02-22T23:00:00",
       "link": "https://www.gradescope.com/courses/696086",
       "submitted": false
     },
