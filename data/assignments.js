@@ -157,6 +157,13 @@ assignments = {
       "dueDate": "2024-02-12T23:59:00",
       "link": "https://www.gradescope.com/courses/717116",
       "submitted": false
+    },
+    {
+      "title": "HW 3",
+      "course": "MATH 113",
+      "dueDate": "2024-02-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/717116",
+      "submitted": false
     }
   ],
   "Math 110 DIS 114 (Spring 2024)": []
