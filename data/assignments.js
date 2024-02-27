@@ -166,5 +166,6 @@ assignments = {
       "submitted": false
     }
   ],
+  "Math 110": [],
   "Math 110 DIS 114 (Spring 2024)": []
 };
