@@ -171,6 +171,13 @@ assignments = {
       "dueDate": "2024-03-01T23:59:00",
       "link": "https://www.gradescope.com/courses/717116",
       "submitted": false
+    },
+    {
+      "title": "HW 4",
+      "course": "MATH 113",
+      "dueDate": "2024-03-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/717116",
+      "submitted": false
     }
   ],
   "Math 110": [],
