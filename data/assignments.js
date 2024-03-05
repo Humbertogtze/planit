@@ -148,6 +148,20 @@ assignments = {
       "dueDate": "2024-03-05T23:00:00",
       "link": "https://www.gradescope.com/courses/696086",
       "submitted": false
+    },
+    {
+      "title": "Lab 2",
+      "course": "EECS 126-LEC-001",
+      "dueDate": "2024-03-08T23:00:00",
+      "link": "https://www.gradescope.com/courses/696086",
+      "submitted": false
+    },
+    {
+      "title": "Lab 2 Self-grade",
+      "course": "EECS 126-LEC-001",
+      "dueDate": "2024-02-23T23:00:00",
+      "link": "https://www.gradescope.com/courses/696086",
+      "submitted": false
     }
   ],
   "MATH 113": [
