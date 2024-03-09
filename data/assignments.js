@@ -176,6 +176,13 @@ assignments = {
       "dueDate": "2024-03-15T23:00:00",
       "link": "https://www.gradescope.com/courses/696086/assignments/4195377/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Homework 7",
+      "course": "EECS 126-LEC-001",
+      "dueDate": "2024-03-12T23:00:00",
+      "link": "https://www.gradescope.com/courses/696086",
+      "submitted": false
     }
   ],
   "MATH 113": [
