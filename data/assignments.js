@@ -252,6 +252,13 @@ assignments = {
     {
       "title": "HW 5",
       "course": "MATH 113",
+      "dueDate": "2024-03-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/717116",
+      "submitted": false
+    },
+    {
+      "title": "HW 6",
+      "course": "MATH 113",
       "dueDate": "2024-03-31T23:59:00",
       "link": "https://www.gradescope.com/courses/717116",
       "submitted": false
