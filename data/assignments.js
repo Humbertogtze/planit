@@ -199,9 +199,9 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Mid-semester Feedback Survey",
+      "title": "Mid-semester Feedback Survey (https://forms.gle/HAgSLxpy5htGQbSn7)",
       "course": "EECS 126-LEC-001",
-      "dueDate": "2024-03-20T23:59:00",
+      "dueDate": "2024-03-24T23:59:00",
       "link": "https://www.gradescope.com/courses/696086",
       "submitted": false
     },
