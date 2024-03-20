@@ -195,7 +195,7 @@ assignments = {
       "title": "Homework 7 Self-grade",
       "course": "EECS 126-LEC-001",
       "dueDate": "2024-03-19T23:00:00",
-      "link": "https://www.gradescope.com/courses/696086/assignments/4215840/submissions/new",
+      "link": "https://www.gradescope.com/courses/696086",
       "submitted": false
     },
     {
@@ -211,6 +211,13 @@ assignments = {
       "dueDate": "2024-03-19T23:00:00",
       "link": "https://www.gradescope.com/courses/696086/assignments/4236102/submissions/240359542",
       "submitted": true
+    },
+    {
+      "title": "Homework 8 Self-grade",
+      "course": "EECS 126-LEC-001",
+      "dueDate": "2024-03-26T23:00:00",
+      "link": "https://www.gradescope.com/courses/696086/assignments/4236104/submissions/new",
+      "submitted": false
     },
     {
       "title": "Lab 3",
