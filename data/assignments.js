@@ -69,6 +69,13 @@ assignments = {
       "dueDate": "2024-04-18T20:59:00",
       "link": "https://www.gradescope.com/courses/689970",
       "submitted": false
+    },
+    {
+      "title": "Homework 9",
+      "course": "CS171",
+      "dueDate": "2024-04-18T20:59:00",
+      "link": "https://www.gradescope.com/courses/689970",
+      "submitted": false
     }
   ],
   "EECS 126-LEC-001": [
