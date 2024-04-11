@@ -311,6 +311,13 @@ assignments = {
       "dueDate": "2024-03-31T23:59:00",
       "link": "https://www.gradescope.com/courses/717116",
       "submitted": false
+    },
+    {
+      "title": "Homework 7",
+      "course": "MATH 113",
+      "dueDate": "2024-04-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/717116",
+      "submitted": false
     }
   ],
   "Math 110": [],
