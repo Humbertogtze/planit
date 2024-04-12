@@ -60,8 +60,8 @@ assignments = {
       "title": "Homework 8",
       "course": "CS171",
       "dueDate": "2024-04-11T20:59:00",
-      "link": "https://www.gradescope.com/courses/689970",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/689970/assignments/4310802/submissions/246095807",
+      "submitted": true
     },
     {
       "title": "HW 9 Coding",
