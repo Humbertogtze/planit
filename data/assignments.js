@@ -78,7 +78,14 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Homework 10",
+      "title": "Homework 10 Questions 1 and 2",
+      "course": "CS171",
+      "dueDate": "2024-04-25T20:59:00",
+      "link": "https://www.gradescope.com/courses/689970",
+      "submitted": false
+    },
+    {
+      "title": "Homework 10 Question 3 (Course Evaluation)",
       "course": "CS171",
       "dueDate": "2024-04-25T20:59:00",
       "link": "https://www.gradescope.com/courses/689970",
