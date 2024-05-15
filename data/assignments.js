@@ -311,57 +311,6 @@ assignments = {
       "submitted": false
     }
   ],
-  "MATH 113": [
-    {
-      "title": "HW 1",
-      "course": "MATH 113",
-      "dueDate": "2024-01-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/717116/assignments/3972912/submissions/225447432",
-      "submitted": true
-    },
-    {
-      "title": "HW 2 ",
-      "course": "MATH 113",
-      "dueDate": "2024-02-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/717116",
-      "submitted": false
-    },
-    {
-      "title": "HW 3 ",
-      "course": "MATH 113",
-      "dueDate": "2024-03-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/717116",
-      "submitted": false
-    },
-    {
-      "title": "HW 4",
-      "course": "MATH 113",
-      "dueDate": "2024-03-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/717116",
-      "submitted": false
-    },
-    {
-      "title": "HW 5",
-      "course": "MATH 113",
-      "dueDate": "2024-03-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/717116",
-      "submitted": false
-    },
-    {
-      "title": "HW 6",
-      "course": "MATH 113",
-      "dueDate": "2024-03-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/717116",
-      "submitted": false
-    },
-    {
-      "title": "Homework 7",
-      "course": "MATH 113",
-      "dueDate": "2024-04-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/717116",
-      "submitted": false
-    }
-  ],
   "Math 110": [],
   "Math 110 DIS 114 (Spring 2024)": []
 };
