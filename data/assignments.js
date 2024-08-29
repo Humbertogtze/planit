@@ -1,5 +1,13 @@
 assignments = {
-  "CS 162": [],
+  "CS 162": [
+    {
+      "title": "Homework 0 Written",
+      "course": "CS 162",
+      "dueDate": "2024-09-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/837803/assignments/4845502/submissions/new",
+      "submitted": false
+    }
+  ],
   "CS 189/289A": [
     {
       "title": "HW 1 Written",
