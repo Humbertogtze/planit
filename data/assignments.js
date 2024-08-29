@@ -9,6 +9,7 @@ assignments = {
       "submitted": false
     }
   ],
+  "CS 270": [],
   "MATH 185-LEC-002": [
     {
       "title": "Homework 1",
