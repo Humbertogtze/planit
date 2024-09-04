@@ -54,6 +54,13 @@ assignments = {
       "dueDate": "2024-09-04T23:59:00",
       "link": "https://www.gradescope.com/courses/840113",
       "submitted": false
+    },
+    {
+      "title": "Homework 2",
+      "course": "MATH 185-LEC-002",
+      "dueDate": "2024-09-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/840113",
+      "submitted": false
     }
   ]
 };
