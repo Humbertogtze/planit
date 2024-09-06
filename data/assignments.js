@@ -15,7 +15,15 @@ assignments = {
       "submitted": false
     }
   ],
-  "CS 172": [],
+  "CS 172": [
+    {
+      "title": "Homework 1",
+      "course": "CS 172",
+      "dueDate": "2024-09-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/859783",
+      "submitted": false
+    }
+  ],
   "CS 189/289A": [
     {
       "title": "HW 1 Written",
