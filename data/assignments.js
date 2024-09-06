@@ -15,6 +15,7 @@ assignments = {
       "submitted": false
     }
   ],
+  "CS 172": [],
   "CS 189/289A": [
     {
       "title": "HW 1 Written",
