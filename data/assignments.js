@@ -4,8 +4,8 @@ assignments = {
       "title": "Homework 1",
       "course": "CS 172",
       "dueDate": "2024-09-09T22:00:00",
-      "link": "https://www.gradescope.com/courses/859783",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/859783/assignments/4911478/submissions/265842563",
+      "submitted": true
     },
     {
       "title": "Homework 2",
