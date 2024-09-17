@@ -80,6 +80,13 @@ assignments = {
       "dueDate": "2024-09-18T16:00:00",
       "link": "https://www.gradescope.com/courses/847154/assignments/4927855/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Lecture 6 warmup",
+      "course": "CS 270",
+      "dueDate": "2024-09-24T12:00:00",
+      "link": "https://www.gradescope.com/courses/847154/assignments/4981862/submissions/new",
+      "submitted": false
     }
   ],
   "MATH 185-LEC-002": [
