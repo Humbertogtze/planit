@@ -71,8 +71,8 @@ assignments = {
       "title": "Lecture 3 Warmup",
       "course": "CS 270",
       "dueDate": "2024-09-16T23:30:00",
-      "link": "https://www.gradescope.com/courses/847154/assignments/4895210/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/847154/assignments/4895210/submissions/268099172",
+      "submitted": true
     },
     {
       "title": "Lecture 4 warmup",
