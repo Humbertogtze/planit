@@ -27,6 +27,13 @@ assignments = {
       "dueDate": "2024-09-27T22:00:00",
       "link": "https://www.gradescope.com/courses/859783/assignments/5018639/submissions/272520911",
       "submitted": true
+    },
+    {
+      "title": "Homework 5",
+      "course": "CS 172",
+      "dueDate": "2024-10-11T22:00:00",
+      "link": "https://www.gradescope.com/courses/859783",
+      "submitted": false
     }
   ],
   "CS 189/289A": [
