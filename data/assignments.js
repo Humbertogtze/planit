@@ -213,6 +213,13 @@ assignments = {
       "dueDate": "2024-09-24T12:00:00",
       "link": "https://www.gradescope.com/courses/847154",
       "submitted": false
+    },
+    {
+      "title": "Alternate exam. ",
+      "course": "CS 270",
+      "dueDate": "2024-12-25T23:01:00",
+      "link": "https://www.gradescope.com/courses/847154",
+      "submitted": false
     }
   ],
   "MATH 185-LEC-002": [
