@@ -20,7 +20,7 @@ assignments = {
       "title": "HW0",
       "course": "EECS 182/282A",
       "dueDate": "2025-02-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/967254/assignments/5698252/submissions/304511343",
+      "link": "https://www.gradescope.com/courses/967254/assignments/5698252/submissions/304692710",
       "submitted": true
     }
   ]
