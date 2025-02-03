@@ -7,5 +7,14 @@ assignments = {
       "link": "https://www.gradescope.com/courses/954359/assignments/5665744/submissions/304150083",
       "submitted": true
     }
+  ],
+  "EECS 182/282A": [
+    {
+      "title": "HW0",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-02-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
+    }
   ]
 };
