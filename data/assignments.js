@@ -29,6 +29,20 @@ assignments = {
       "dueDate": "2025-02-02T23:59:00",
       "link": "https://www.gradescope.com/courses/967254/assignments/5698252/submissions/304692710",
       "submitted": true
+    },
+    {
+      "title": "HW1",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-02-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
+    },
+    {
+      "title": "HW2",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-02-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
     }
   ]
 };
