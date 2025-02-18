@@ -50,6 +50,83 @@ assignments = {
       "dueDate": "2025-02-16T23:59:00",
       "link": "https://www.gradescope.com/courses/967254",
       "submitted": false
+    },
+    {
+      "title": "HW3",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-02-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
+    },
+    {
+      "title": "HW4",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-02-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
+    },
+    {
+      "title": "HW5",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-03-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
+    },
+    {
+      "title": "HW6",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-03-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
+    },
+    {
+      "title": "HW7",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-03-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
+    },
+    {
+      "title": "HW8",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-03-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
+    },
+    {
+      "title": "HW9",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-04-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
+    },
+    {
+      "title": "HW10",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-04-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
+    },
+    {
+      "title": "HW11",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-04-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
+    },
+    {
+      "title": "HW12",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-04-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
+    },
+    {
+      "title": "HW13",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-05-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
     }
   ]
 };
