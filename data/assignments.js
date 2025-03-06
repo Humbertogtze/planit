@@ -39,8 +39,8 @@ assignments = {
       "title": "Homework 6",
       "course": "CS 174",
       "dueDate": "2025-03-07T17:00:00",
-      "link": "https://www.gradescope.com/courses/954359",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/954359/assignments/5885304/submissions/314892857",
+      "submitted": true
     }
   ],
   "EECS 182/282A": [
