@@ -148,6 +148,13 @@ assignments = {
       "dueDate": "2025-05-04T23:59:00",
       "link": "https://www.gradescope.com/courses/967254",
       "submitted": false
+    },
+    {
+      "title": "Project Proposal",
+      "course": "EECS 182/282A",
+      "dueDate": "2025-04-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/967254",
+      "submitted": false
     }
   ]
 };
