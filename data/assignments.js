@@ -55,6 +55,13 @@ assignments = {
       "dueDate": "2025-04-04T17:00:00",
       "link": "https://www.gradescope.com/courses/954359",
       "submitted": false
+    },
+    {
+      "title": "Homework 9",
+      "course": "CS 174",
+      "dueDate": "2025-04-11T17:00:00",
+      "link": "https://www.gradescope.com/courses/954359",
+      "submitted": false
     }
   ],
   "EECS 182/282A": [
