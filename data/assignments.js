@@ -60,6 +60,13 @@ assignments = {
       "title": "Homework 9",
       "course": "CS 174",
       "dueDate": "2025-04-11T17:00:00",
+      "link": "https://www.gradescope.com/courses/954359/assignments/6041236/submissions/324720696",
+      "submitted": true
+    },
+    {
+      "title": "Homework 10",
+      "course": "CS 174",
+      "dueDate": "2025-04-18T17:00:00",
       "link": "https://www.gradescope.com/courses/954359",
       "submitted": false
     }
